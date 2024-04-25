@@ -14,11 +14,12 @@ __Community Members: __ Individuals affiliated with Dalhousie University\, inclu
 
 ### Features
 
-![](img%5CDal%20Community%20Mobile%20App1.jpg)
+<div style="display:flex;flex-wrap:wrap;">
+    <img src="img/Dal%20Community%20Mobile%20App1.jpg" alt="Image 27">
+    <img src="img/Dal%20Community%20Mobile%20App2.jpg" alt="Image 28">
+    <img src="img/Dal%20Community%20Mobile%20App3.jpg" alt="Image 29">
+</div>
 
-![](img%5CDal%20Community%20Mobile%20App2.jpg)
-
-![](img%5CDal%20Community%20Mobile%20App3.jpg)
 
 ## Insights into UI/UX
 
